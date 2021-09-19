@@ -1,2 +1,2 @@
 # hello-world
-repository
+I want to be a professional programmer!
